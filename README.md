@@ -2,4 +2,4 @@
 
 Silvana Echeverry - 202310470 \
 Miguel Velandia - 202312487 \
-Daniel Bolivar - 202310329 \
+Daniel Bolivar - 202310329 
